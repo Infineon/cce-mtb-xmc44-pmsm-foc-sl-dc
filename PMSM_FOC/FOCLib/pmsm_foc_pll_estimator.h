@@ -56,7 +56,7 @@
 #define PMSM_FOC_FOCLIB_PMSM_FOC_PLL_ESTIMATOR_H_
 
 #include <xmc_common.h>                     // SFR declarations of the selected device
-#include "../ControlModules/pmsm_foc_functions.h"
+#include "..\ControlModules\pmsm_foc_functions.h"
 
 
 __RAM_FUNC void PLL_Imag(int32_t Vref_AngleQ31, int32_t I_Alpha_1Q31, int32_t I_Beta_1Q31, PLL_EstimatorType* const HandlePtr);
