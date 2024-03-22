@@ -36,7 +36,7 @@ MTB_TYPE=COMBINED
 # configurations. If TARGET is manually edited, ensure TARGET_<BSP>.mtb with a
 # valid URL exists in the application, run 'make getlibs' to fetch BSP contents
 # and update or regenerate launch configurations for your IDE.
-TARGET=APP_KIT_XMC_PLT2GO_XMC4400
+TARGET=APP_KIT_XMC4400_DC_V1
 
 # Name of application (used to derive name of final linked file).
 #
@@ -47,8 +47,6 @@ APPNAME=cce-mtb-xmc44-pmsm-foc-sl-dc
 # Name of toolchain to use. Options include:
 #
 # GCC_ARM -- GCC provided with ModusToolbox IDE
-# ARM     -- ARM Compiler (must be installed separately)
-# IAR     -- IAR Compiler (must be installed separately)
 #
 # See also: CY_COMPILER_PATH below
 TOOLCHAIN=GCC_ARM

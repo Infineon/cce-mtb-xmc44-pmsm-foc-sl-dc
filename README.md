@@ -44,7 +44,7 @@ Create the project and open it using one of the following:
 
 1. Click the **New Application** link in the **Quick Panel** (or, use **File** > **New** > **ModusToolbox&trade; Application**). This launches the [Project Creator](https://www.infineon.com/ModusToolboxProjectCreator) tool.
 
-2. Select the kit XMC4400 (`KIT_XMC4400_DC_V1`) from the **XMC&trade; BSPs** list shown in the **Project Creator - Choose Board Support Package (BSP)** dialog.
+2. Select the kit `KIT_XMC4400_DC_V1` from the **XMC&trade; BSPs** list shown in the **Project Creator - Choose Board Support Package (BSP)** dialog.
 
 3. In the **Project Creator - Select Application** dialog, choose the example from the list **Community Code Examples** by enabling the checkbox.
 
@@ -66,7 +66,7 @@ Create the project and open it using one of the following:
 
 10. Find the "PMSM_FOC_SL_XMC4_uCProbe.wspx" file from your ModusToolbox workspace folder and select **Open**. A pop-up window will appear to show the existing elf file. Select the one shown and click **Open**. 
 
-<img src="images/elf.png" width="400" height="346" style="border: 2px solid gray; border-radius:15px">
+<img src="images/elf1.png" width="400" height="346" style="border: 2px solid gray; border-radius:15px">
 
 **Figure 3. Selecting the elf file**
 
@@ -174,7 +174,7 @@ Document title: *CCE#002-38985 - PMSM FOC SL XMC44 DC*
 All other trademarks or registered trademarks referenced herein are the property of their respective owners.
 
 
-© 2023 Infineon Technologies AG
+© 2024 Infineon Technologies AG
 
 All Rights Reserved.
 
